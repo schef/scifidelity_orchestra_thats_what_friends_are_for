@@ -299,7 +299,7 @@ Scifidelity Orchestra 2019
             <followText>1</followText>
             <linkedMain/>
             <offset x="-11.3526" y="-3.30991"/>
-            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 96
+            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 96
 </b></text>
             </Tempo>
           <Rest>
@@ -595,7 +595,7 @@ Scifidelity Orchestra 2019
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <text>you're</text>
+              <text>you</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -607,9 +607,8 @@ Scifidelity Orchestra 2019
             <linkedMain/>
             <durationType>quarter</durationType>
             <Lyrics>
-              <syllabic>begin</syllabic>
               <linkedMain/>
-              <text>a</text>
+              <text>are</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -625,9 +624,8 @@ Scifidelity Orchestra 2019
             <linkedMain/>
             <durationType>quarter</durationType>
             <Lyrics>
-              <syllabic>end</syllabic>
               <linkedMain/>
-              <text>lone</text>
+              <text>down</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -3154,7 +3152,7 @@ Scifidelity Orchestra 2019
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <text>you're</text>
+              <text>you</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -3166,9 +3164,8 @@ Scifidelity Orchestra 2019
             <linkedMain/>
             <durationType>quarter</durationType>
             <Lyrics>
-              <syllabic>begin</syllabic>
               <linkedMain/>
-              <text>a</text>
+              <text>are</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -3184,11 +3181,10 @@ Scifidelity Orchestra 2019
             <linkedMain/>
             <durationType>whole</durationType>
             <Lyrics>
-              <syllabic>end</syllabic>
               <ticks>1920</ticks>
               <ticks_f>4/4</ticks_f>
               <linkedMain/>
-              <text>lone</text>
+              <text>down</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -5584,7 +5580,7 @@ Scifidelity Orchestra 2019
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <text>you're</text>
+              <text>you</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -5596,9 +5592,8 @@ Scifidelity Orchestra 2019
             <linkedMain/>
             <durationType>quarter</durationType>
             <Lyrics>
-              <syllabic>begin</syllabic>
               <linkedMain/>
-              <text>a</text>
+              <text>are</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -5617,9 +5612,8 @@ Scifidelity Orchestra 2019
             <linkedMain/>
             <durationType>quarter</durationType>
             <Lyrics>
-              <syllabic>end</syllabic>
               <linkedMain/>
-              <text>lone</text>
+              <text>down</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -8008,7 +8002,7 @@ Scifidelity Orchestra 2019
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <text>you're</text>
+              <text>you</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -8020,9 +8014,8 @@ Scifidelity Orchestra 2019
             <linkedMain/>
             <durationType>quarter</durationType>
             <Lyrics>
-              <syllabic>begin</syllabic>
               <linkedMain/>
-              <text>a</text>
+              <text>are</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -8038,9 +8031,8 @@ Scifidelity Orchestra 2019
             <linkedMain/>
             <durationType>quarter</durationType>
             <Lyrics>
-              <syllabic>end</syllabic>
               <linkedMain/>
-              <text>lone</text>
+              <text>down</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -10239,7 +10231,7 @@ Scifidelity Orchestra 2019
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 96
+              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 96
 </b></text>
               </Tempo>
             <Rest>
@@ -10585,7 +10577,7 @@ Scifidelity Orchestra 2019
               <Lyrics>
                 <linked>
                   </linked>
-                <text>you're</text>
+                <text>you</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -10599,10 +10591,9 @@ Scifidelity Orchestra 2019
                 </linked>
               <durationType>quarter</durationType>
               <Lyrics>
-                <syllabic>begin</syllabic>
                 <linked>
                   </linked>
-                <text>a</text>
+                <text>are</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -10620,10 +10611,9 @@ Scifidelity Orchestra 2019
                 </linked>
               <durationType>quarter</durationType>
               <Lyrics>
-                <syllabic>end</syllabic>
                 <linked>
                   </linked>
-                <text>lone</text>
+                <text>down</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -13405,7 +13395,7 @@ Scifidelity Orchestra 2019
                   </location>
                 <indexDiff>6</indexDiff>
                 </linked>
-              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 96
+              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 96
 </b></text>
               </Tempo>
             <Rest>
@@ -13743,7 +13733,7 @@ Scifidelity Orchestra 2019
               <Lyrics>
                 <linked>
                   </linked>
-                <text>you're</text>
+                <text>you</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -13757,10 +13747,9 @@ Scifidelity Orchestra 2019
                 </linked>
               <durationType>quarter</durationType>
               <Lyrics>
-                <syllabic>begin</syllabic>
                 <linked>
                   </linked>
-                <text>a</text>
+                <text>are</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -13778,12 +13767,11 @@ Scifidelity Orchestra 2019
                 </linked>
               <durationType>whole</durationType>
               <Lyrics>
-                <syllabic>end</syllabic>
                 <ticks>1920</ticks>
                 <ticks_f>4/4</ticks_f>
                 <linked>
                   </linked>
-                <text>lone</text>
+                <text>down</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -16416,7 +16404,7 @@ Scifidelity Orchestra 2019
                   </location>
                 <indexDiff>6</indexDiff>
                 </linked>
-              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 96
+              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 96
 </b></text>
               </Tempo>
             <Rest>
@@ -16760,7 +16748,7 @@ Scifidelity Orchestra 2019
               <Lyrics>
                 <linked>
                   </linked>
-                <text>you're</text>
+                <text>you</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -16774,10 +16762,9 @@ Scifidelity Orchestra 2019
                 </linked>
               <durationType>quarter</durationType>
               <Lyrics>
-                <syllabic>begin</syllabic>
                 <linked>
                   </linked>
-                <text>a</text>
+                <text>are</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -16798,10 +16785,9 @@ Scifidelity Orchestra 2019
                 </linked>
               <durationType>quarter</durationType>
               <Lyrics>
-                <syllabic>end</syllabic>
                 <linked>
                   </linked>
-                <text>lone</text>
+                <text>down</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -19457,7 +19443,7 @@ Scifidelity Orchestra 2019
                   </location>
                 <indexDiff>6</indexDiff>
                 </linked>
-              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 96
+              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 96
 </b></text>
               </Tempo>
             <Rest>
@@ -19770,7 +19756,7 @@ Scifidelity Orchestra 2019
               <Lyrics>
                 <linked>
                   </linked>
-                <text>you're</text>
+                <text>you</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -19784,10 +19770,9 @@ Scifidelity Orchestra 2019
                 </linked>
               <durationType>quarter</durationType>
               <Lyrics>
-                <syllabic>begin</syllabic>
                 <linked>
                   </linked>
-                <text>a</text>
+                <text>are</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -19805,10 +19790,9 @@ Scifidelity Orchestra 2019
                 </linked>
               <durationType>quarter</durationType>
               <Lyrics>
-                <syllabic>end</syllabic>
                 <linked>
                   </linked>
-                <text>lone</text>
+                <text>down</text>
                 </Lyrics>
               <Note>
                 <linked>
